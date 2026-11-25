@@ -1,0 +1,21 @@
+build/
+.tools/
+__pycache__/
+*.pyc
+mspm0/Debug/
+mspm0/Release/
+mspm0/.settings/
+mspm0/.vscode/
+*.o
+*.out
+*.map
+*.bin
+*.hex
+
+# Third-party OLED redistribution permission is unconfirmed
+mspm0/bmp.h
+mspm0/oled.c
+mspm0/oled.h
+mspm0/oledfont.h
+*.elf
+*.local.*

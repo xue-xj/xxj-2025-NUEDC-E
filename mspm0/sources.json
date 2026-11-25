@@ -1,0 +1,13 @@
+[
+  "delay.c",
+  "gimbal_app.c",
+  "gimbal_control.c",
+  "gimbal_display.c",
+  "gimbal_protocol.c",
+  "key.c",
+  "main.c",
+  "motion_math.c",
+  "oled.c",
+  "step_motor.c",
+  "uart.c"
+]
